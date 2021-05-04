@@ -1,6 +1,6 @@
 ### Merhaba Ben TheOrder  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/822522536322662471/839153568958513152/code.gif" width="500" height="320" />
 
 
 ## Ben bir ufak bir Geliştiriciyim
