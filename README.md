@@ -33,8 +33,6 @@
 
 <br />
 <br />
----
-
 
 [youtube]: https://www.youtube.com/channel/UCLEpJiEEV4BDmhGwAKw5YLQ
 [instagram]: https://www.instagram.com/theorder.xyz/
