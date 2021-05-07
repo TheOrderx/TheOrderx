@@ -36,21 +36,6 @@
 <br />
 <br />
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="TheOrder GitHub Stats" src="https://github.com/TheOrderx/Roxy/tree/main" />
-
-</details>
-
-<details>
-  <summary>:zap: En Çok Kullanılan Diller </summary>
-
-<img align="left" alt="TheOrder GitHub Top Languages" src="https://github.com/TheOrderx/Roxy/tree/main" />
-
-</details>
-
 [website]: Yakında
 [youtube]: https://www.youtube.com/c/TheOrderx/featured
 [instagram]: https://www.instagram.com/theorder.xyz/
