@@ -36,13 +36,11 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
 
 
 </details>
