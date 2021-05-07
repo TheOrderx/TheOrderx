@@ -35,15 +35,6 @@
 <br />
 ---
 
-<details>
-
-
-</details>
-
-<details>
-
-
-</details>
 
 [youtube]: https://www.youtube.com/channel/UCLEpJiEEV4BDmhGwAKw5YLQ
 [instagram]: https://www.instagram.com/theorder.xyz/
